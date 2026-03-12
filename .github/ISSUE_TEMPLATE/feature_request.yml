@@ -1,0 +1,28 @@
+name: Feature Request
+description: Suggest a new feature or improvement for Metriflash
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Describe your idea
+      description: What would you like to see in Metriflash?
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does it solve?
+      description: Why would this feature be useful? What workflow or situation does it help with?
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Have you considered any workarounds or alternative approaches?
+    validations:
+      required: false

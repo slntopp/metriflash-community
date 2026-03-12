@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+
+  <!-- Background rectangles -->
+  <g id="background-black">
+    <rect width="1024" height="1024" rx="224" fill="#222222"/>
+  </g>
+  <g id="background-white">
+    <rect x="0" y="0" width="512" height="1024" rx="224" fill="white"/>
+    <rect x="288" y="0" width="224" height="1024" fill="white"/>
+  </g>
+
+  <!-- Black dots (power side pills) -->
+  <g id="dots-power">
+    <rect x="470" y="36" width="42" height="42" rx="0" fill="black"/>
+    <rect x="488" y="36" width="24" height="42" rx="12" fill="black"/>
+
+    <rect x="470" y="150" width="42" height="42" rx="0" fill="black"/>
+    <rect x="488" y="150" width="24" height="42" rx="12" fill="black"/>
+
+    <rect x="470" y="263" width="42" height="42" rx="0" fill="black"/>
+    <rect x="488" y="263" width="24" height="42" rx="12" fill="black"/>
+
+    <rect x="470" y="377" width="42" height="42" rx="0" fill="black"/>
+    <rect x="488" y="377" width="24" height="42" rx="12" fill="black"/>
+
+    <rect x="470" y="491" width="42" height="42" rx="0" fill="black"/>
+    <rect x="488" y="491" width="24" height="42" rx="12" fill="black"/>
+
+    <rect x="470" y="605" width="42" height="42" rx="0" fill="black"/>
+    <rect x="488" y="605" width="24" height="42" rx="12" fill="black"/>
+
+    <rect x="470" y="718" width="42" height="42" rx="0" fill="black"/>
+    <rect x="488" y="718" width="24" height="42" rx="12" fill="black"/>
+
+    <rect x="470" y="832" width="42" height="42" rx="0" fill="black"/>
+    <rect x="488" y="832" width="24" height="42" rx="12" fill="black"/>
+
+    <rect x="470" y="946" width="42" height="42" rx="0" fill="black"/>
+    <rect x="488" y="946" width="24" height="42" rx="12" fill="black"/>
+  </g>
+
+  <!-- White dots (aperture side pills) -->
+  <g id="dots-aperture">
+    <rect x="512" y="36" width="42" height="42" rx="0" fill="white"/>
+    <rect x="512" y="36" width="24" height="42" rx="12" fill="white"/>
+
+    <rect x="512" y="150" width="42" height="42" rx="0" fill="white"/>
+    <rect x="512" y="150" width="24" height="42" rx="12" fill="white"/>
+
+    <rect x="512" y="263" width="42" height="42" rx="0" fill="white"/>
+    <rect x="512" y="263" width="24" height="42" rx="12" fill="white"/>
+
+    <rect x="512" y="377" width="42" height="42" rx="0" fill="white"/>
+    <rect x="512" y="377" width="24" height="42" rx="12" fill="white"/>
+
+    <rect x="512" y="491" width="42" height="42" rx="0" fill="white"/>
+    <rect x="512" y="491" width="24" height="42" rx="12" fill="white"/>
+
+    <rect x="512" y="605" width="42" height="42" rx="0" fill="white"/>
+    <rect x="512" y="605" width="24" height="42" rx="12" fill="white"/>
+
+    <rect x="512" y="718" width="42" height="42" rx="0" fill="white"/>
+    <rect x="512" y="718" width="24" height="42" rx="12" fill="white"/>
+
+    <rect x="512" y="832" width="42" height="42" rx="0" fill="white"/>
+    <rect x="512" y="832" width="24" height="42" rx="12" fill="white"/>
+
+    <rect x="512" y="946" width="42" height="42" rx="0" fill="white"/>
+    <rect x="512" y="946" width="24" height="42" rx="12" fill="white"/>
+  </g>
+
+  <!-- Numbers -->
+  <g id="numbers">
+    <text x="458" y="298" font-family="system-ui, -apple-system, SF Pro Rounded, Helvetica Neue, sans-serif" font-size="100" font-weight="bold" fill="black" text-anchor="end">32</text>
+    <text x="458" y="753" font-family="system-ui, -apple-system, SF Pro Rounded, Helvetica Neue, sans-serif" font-size="100" font-weight="bold" fill="black" text-anchor="end">64</text>
+    <text x="566" y="185" font-family="system-ui, -apple-system, SF Pro Rounded, Helvetica Neue, sans-serif" font-size="100" font-weight="bold" fill="white">4</text>
+    <text x="566" y="526" font-family="system-ui, -apple-system, SF Pro Rounded, Helvetica Neue, sans-serif" font-size="100" font-weight="bold" fill="white">5.6</text>
+    <text x="566" y="867" font-family="system-ui, -apple-system, SF Pro Rounded, Helvetica Neue, sans-serif" font-size="100" font-weight="bold" fill="white">8</text>
+  </g>
+
+</svg>

@@ -1,0 +1,58 @@
+name: Bug Report
+description: Report a bug or unexpected behavior in Metriflash
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version
+      description: Which version of Metriflash are you using? (Check Settings or the App Store)
+      placeholder: "e.g. 1.0.0"
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: Device & iOS Version
+      description: What device and iOS version are you running?
+      placeholder: "e.g. iPhone 15 Pro, iOS 18.3"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug clearly and concisely.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we reproduce this bug?
+      placeholder: |
+        1. Open the app
+        2. Set GN to ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain the problem.
+    validations:
+      required: false
