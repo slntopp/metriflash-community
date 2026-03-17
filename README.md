@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
   <img src="docs/icon.svg" alt="Metriflash" width="128">
   &nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/metriflash/id6760436090?itscg=30200&itsct=apps_box_badge&mttnsubad=6760436090"><picture><source media="(prefers-color-scheme: dark)" srcset="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/en-us?releaseDate=1773705600"><source media="(prefers-color-scheme: light)" srcset="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1773705600"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1773705600" alt="Download on the App Store" width="164"></picture></a>
-</p>
+</div>
 
 # Metriflash
 
