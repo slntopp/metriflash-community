@@ -1,12 +1,8 @@
-<p align="center">
-  <a href="https://github.com/slntopp/metriflash-community">
-    <img src="docs/icon.svg" alt="Metriflash" width="128" style="vertical-align: middle;">
-  </a>
+<div align="center">
+  <img src="docs/icon.svg" alt="Metriflash" width="128">
   &nbsp;&nbsp;
-  <a href="https://apps.apple.com/us/app/metriflash/id6760436090?itscg=30200&itsct=apps_box_badge&mttnsubad=6760436090" style="display: inline-block; vertical-align: middle;">
-    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1773705600" alt="Download on the App Store" style="width: 164px; height: 55px; vertical-align: middle; object-fit: contain;">
-  </a>
-</p>
+  <a href="https://apps.apple.com/us/app/metriflash/id6760436090?itscg=30200&itsct=apps_box_badge&mttnsubad=6760436090"><picture><source media="(prefers-color-scheme: dark)" srcset="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/white/en-us?releaseDate=1773705600"><source media="(prefers-color-scheme: light)" srcset="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1773705600"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1773705600" alt="Download on the App Store" width="164"></picture></a>
+</div>
 
 # Metriflash
 
@@ -28,7 +24,7 @@ Metriflash is an offline iOS app that instantly shows which aperture to use at e
 <details>
 <summary>How do I use this app?</summary>
 
-Set your flash's Guide Number (GN), your film or camera ISO, and the distance to your subject. The two scale bars on the left will show you which aperture (f-stop) to use at each power level on your flash.
+Set your flash's Guide Number (GN), your film or camera ISO, and the distance to your subject. The two scale bars on the left will show you which aperture (ƒ-stop) to use at each power level on your flash.
 
 <p align="center">
   <img src="docs/Home-17Pro.png" alt="Metriflash Home Screen" width="250">
