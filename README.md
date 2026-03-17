@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="docs/icon.svg" alt="Metriflash" width="128">
+  <a href="https://github.com/slntopp/metriflash-community">
+    <img src="docs/icon.svg" alt="Metriflash" width="128" style="vertical-align: middle;">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/metriflash/id6760436090?itscg=30200&itsct=apps_box_badge&mttnsubad=6760436090" style="display: inline-block; vertical-align: middle;">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1773705600" alt="Download on the App Store" style="width: 164px; height: 55px; vertical-align: middle; object-fit: contain;">
+  </a>
 </p>
 
 # Metriflash
